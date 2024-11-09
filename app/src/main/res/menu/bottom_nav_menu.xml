@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_navigation_peliculas"
+        android:icon="@drawable/ic_movies"
+        android:title="@string/peliculas" />
+
+    <item
+        android:id="@+id/navigation_confiteria"
+        android:icon="@drawable/ic_confiteria"
+        android:title="@string/confiteria" />
+
+    <item
+        android:id="@+id/navigation_cines"
+        android:icon="@drawable/ic_cines"
+        android:title="@string/cines" />
+
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/ic_menu"
+        android:title="@string/menu" />
+</menu>
